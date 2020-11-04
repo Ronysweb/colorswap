@@ -13,7 +13,7 @@
 
  <li><strong>Usage:</strong> Open project in a code editor. I used Atom for this project. Other code ediotrs: Sublime text, brackets, Visual Studio Code</li><br>
 
- <li><strong>Credits:</strong> Include a section for credits in order to highlight and link to the authors of your project. Project created with JavaScript by mentor Johns Milga. Starting as a JavaScript beginner.</li><br>
+ <li><strong>Credits:</strong> Project created with JavaScript by mentor <a href="https://github.com/john-smilga">Johns Milga.</a></li><br>
 
  <li><strong>License:📄</strong> This project is licensed under the MIT License - See the <a href="https://github.com/Ronysweb/colorswap/blob/main/License.md">License.md</a> for details.</li>
 </ul>
