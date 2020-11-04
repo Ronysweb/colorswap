@@ -4,9 +4,6 @@
 <h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
 =========================================================
 
-<h3>Description</h3>
-<p>ColorSwap is a Javascript Project which I started as a JavaScript Beginner </p>
-
 <ul>
  <li><strong>Project name:</strong> ColorSwap.</li><br>
 
