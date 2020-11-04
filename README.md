@@ -3,13 +3,7 @@
 <h2>⚡Javascript Projects⚡</h2>
 <h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
 =========================================================
-<p>Project created with JavaScript by mentor Johns Milga</p>
-=========================================================
 
-<h3>About Colorswap👈</h3>
-
-<p>ColorSwap is a javascript project created along side by mentor Johns Milga.</p>
-=========================================================
 <h3>Description</h3>
 <p>ColorSwap is a Javascript Project which I started as a JavaScript Beginner </p>
 
