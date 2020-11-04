@@ -24,5 +24,5 @@
 
  <li><strong>Credits:</strong> Include a section for credits in order to highlight and link to the authors of your project. Project created with JavaScript by mentor Johns Milga. Starting as a JavaScript beginner.</li><br>
 
- <li><strong>License:</strong><a href="https://choosealicense.com/licenses/mit/">MIT License</a></li>
+ <li><strong>License:</strong> <a href="https://choosealicense.com/licenses/mit/">MIT License</a></li>
 </ul>
