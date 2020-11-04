@@ -1,10 +1,7 @@
 # colorswap
 
 <h2>Javascript Projects</h2>
-<ul>
- <li>Product Page: https://www.ronysweb.com/</li>
- </ul>
- Coded by Ronald Guidry at RonysWeb
+<h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
 =========================================================
 <p>Project created with JavaScript by mentor Johns Milga</p>
 =========================================================
