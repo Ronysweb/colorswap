@@ -1,6 +1,6 @@
 # colorswap
 
-<h2>Javascript Projects</h2>
+<h2>Javascript Projects⚡</h2>
 <h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
 =========================================================
 <p>Project created with JavaScript by mentor Johns Milga</p>
@@ -17,8 +17,6 @@
  <li><strong>Project name:</strong> ColorSwap.</li><br>
 
  <li><strong>Description:</strong> A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.</li><br>
-
- <li><strong>Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.</li><br>
 
  <li><strong>Installation:</strong> Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.</li><br>
 
