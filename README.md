@@ -2,7 +2,8 @@
 
 <h2>⚡Javascript Projects⚡</h2>
 <h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
-=========================================================<br>
+=========================================================
+<br>
 
 <ul>
  <li><strong>Project name:</strong> ColorSwap.</li><br>
