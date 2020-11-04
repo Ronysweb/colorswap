@@ -8,5 +8,7 @@
  Coded by Ronald Guidry at RonysWeb
 =========================================================
 <h1>About Colorswap</h1>
+<p>Project created with JavaScript by mentor Johns Milga</p>
 =========================================================
 <p>Project created with JavaScript by mentor Johns Milga</p>
+
