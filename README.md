@@ -12,7 +12,7 @@
 
  <li><strong>Installation:</strong> Download the files into a new folder project, onto your computers desktop.</li><br>
 
- <li><strong>Usage:</strong> Open project in a code editor. I used Atom for this project. Other code ediotrs: Sublime text, brackets, Visual Studio Code</li><br>
+ <li><strong>Usage:</strong> Open project in a code editor. I used Atom for this project. Other code editors: Sublime text, brackets, Visual Studio Code</li><br>
 
  <li><strong>Credits:</strong> Project created with JavaScript by mentor <a href="https://github.com/john-smilga">Johns Milga.</a></li><br>
 
